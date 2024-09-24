@@ -1,0 +1,17 @@
+flask
+flask_cors
+numpy
+pandas
+openai
+python-dotenv
+redis
+# transformers
+pyvi
+ipywidgets
+torch
+tqdm
+sqlalchemy
+qdrant-client=1.11.1
+# Raffles#2023163
+# python -m http.server
+
